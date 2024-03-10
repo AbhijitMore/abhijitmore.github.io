@@ -39,7 +39,9 @@ Graduation: June 2022
 # Certifications
 
 **Data Analyst Nanodegree (Udacity)**
+
 **IBM Data Science Specialization (Coursera)**
+
 **Deep Learning Specialization by deeplearning.ai (Coursera)**
 
 # Technical Skills
