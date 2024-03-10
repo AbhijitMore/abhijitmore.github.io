@@ -21,7 +21,6 @@ This is a simple Flask application that streams video from a webcam while perfor
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [License](#license)
 
 ## Getting Started
 
