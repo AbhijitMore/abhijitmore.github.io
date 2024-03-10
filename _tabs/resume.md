@@ -5,8 +5,8 @@ order: 1
 
 # Education
 
-**Bachelor of Technology in Electronics and Communications Engineering**,_Lovely Professional University, Punjab, India_
-Graduation: June 2022  
+**Bachelor of Technology in Electronics and Communications Engineering**, _Lovely Professional University_, Punjab, India   
+Graduation: June 2022
 
 - **CGPA:** 8.44
 - **Relevant Coursework:** Introduction to Artificial Intelligence, Digital Signal Processing, Database Management System, Workshop on Image Processing, Computer Programming, Data Structures and Algorithms
