@@ -38,13 +38,18 @@ Graduation: June 2022
 
 # Certifications
 
-**Data Analyst Nanodegree**, _Udacity_
-**IBM Data Science Specialization**, Coursera_
-**Deep Learning Specialization by deeplearning.ai**, _Coursera_
+**Data Analyst Nanodegree (Udacity)**
+
+**IBM Data Science Specialization (Coursera)**
+
+**Deep Learning Specialization by deeplearning.ai (Coursera)**
 
 # Technical Skills
 
 **Programming Languages:** Python, C, Java, MATLAB, SQL, HTML, CSS, JavaScript  
+
 **Libraries & Frameworks:** NLTK, Sentence Transformers, BERT, Scikit-learn, Numpy, Pandas, FastAPI, Flask, Django, Spark, Tensorflow, Keras  
+
 **Cloud & Software:** AWS, Databricks, Oracle Database, GitHub, Microsoft Office, Tableau, Docker  
+
 **Concepts:** Statistics, Data Analysis, Traditional ML Algorithms, Deep Learning, Computer Vision, NLP, Transformers, LLMs
