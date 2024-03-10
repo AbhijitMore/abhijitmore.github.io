@@ -28,9 +28,6 @@ url: "https://abhijitmore.github.io"
 github:
   username: AbhijitMore # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -38,7 +35,6 @@ social:
   email: abhimore822@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
     - https://github.com/AbhijitMore # change to your github homepage
     - https://www.linkedin.com/in/abhijitmore09
 
