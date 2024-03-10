@@ -1,6 +1,6 @@
 ---
 icon: fas fa-file-alt
-order: 2
+order: 1
 ---
 
 # EDUCATION
