@@ -35,13 +35,13 @@ Graduation: June 2022
 
 - Constructed the user interface with ExtJS and Java, successfully deploying the model. 
 
-**Real-Time Face Detection and Sketch Generation, November 2020
+**Real-Time Face Detection and Sketch Generation**, November 2020
 
 - Implemented real-time face detection using OpenCV and Flask in Python.
 
 - Generated grayscale images and blended them to create a sketch, including blurred negative images using dodge.
 
-**A/B Test Results Analysis, October 2020
+**A/B Test Results Analysis**, October 2020
 
 - Analyzed results of an A/B test conducted by an e-commerce website.
   
@@ -54,7 +54,7 @@ Graduation: June 2022
 
 **IBM Data Science Specialization (Coursera)**
 
-** Deep Learning Specialization by deeplearning.ai (Coursera)**
+**Deep Learning Specialization by deeplearning.ai (Coursera)**
 
 # TECHNICAL SKILLS
 
