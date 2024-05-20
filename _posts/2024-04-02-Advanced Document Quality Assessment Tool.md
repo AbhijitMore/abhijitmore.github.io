@@ -17,10 +17,6 @@ This is a simple Flask application that assess the quality of documents before p
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
 
 ## Getting Started
 
