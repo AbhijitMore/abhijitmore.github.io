@@ -1,1 +1,24 @@
+--- 
+title: Video Summary Generator
+date: 2024-04-02
+categories: [Projects, Deep Learning] 
+tags: [Librosa, Deep Learning, NLP]
+
+---
+
+[![Open in Github Page](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://github.com/AbhijitMore/FaceDetectionApp)
+<br>
+
+
+# Video Summary Generator
+
+This is a simple Video Summary Generator that generate summary for given video.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+
+## Getting Started
+
+To get started with this Video Summary Generator app, follow the instructions below.
 
