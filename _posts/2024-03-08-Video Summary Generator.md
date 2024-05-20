@@ -14,11 +14,3 @@ tags: [Librosa, Deep Learning, NLP]
 
 This is a simple Video Summary Generator that generate summary for given video.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-
-## Getting Started
-
-To get started with this Video Summary Generator app, follow the instructions below.
-
