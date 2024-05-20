@@ -12,6 +12,5 @@ tags: [Deep Learning, NLP, Audio, Speech-to-Text]
 
 
 # Automatic Time-Alignment of Video Captions
-
 This is a simple Automatic Time-Alignment of Video Captions app that generate .srt file for given video file.
 
