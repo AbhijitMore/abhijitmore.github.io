@@ -1,6 +1,6 @@
 --- 
 title: Video Summary Generator
-date: 2024-04-02
+date: 2024-03-08
 categories: [Projects, Deep Learning] 
 tags: [Librosa, Deep Learning, NLP]
 
