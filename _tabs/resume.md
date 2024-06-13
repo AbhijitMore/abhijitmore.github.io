@@ -13,7 +13,7 @@ Graduation: June 2022
 
 # Work Experience
 
-**Trainee - AI/ML**, IIT Madras Pravartak, Chennai, TamilNadu Feb 2024 –  Present_
+**Trainee - AI/ML**, IIT Madras Pravartak, Chennai, TamilNadu Feb 2024 – Present_
 - Evolved expertise from statistics and machine learning to mastering deep learning, particularly transformers.
 - Crafted 4 innovative projects that seamlessly blend theory with practical applications, yielding tangible impacts.
 
