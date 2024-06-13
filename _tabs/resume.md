@@ -13,6 +13,10 @@ Graduation: June 2022
 
 # Work Experience
 
+**Trainee - AI/ML**, IIT Madras Pravartak, Chennai, TamilNadu Feb 2024 –  Present_
+- Evolved expertise from statistics and machine learning to mastering deep learning, particularly transformers.
+- Crafted 4 innovative projects that seamlessly blend theory with practical applications, yielding tangible impacts.
+
 **Associate Software Engineer - I**, _HighRadius, Hyderabad, July 2022 – May 2023_
 - Collaborated with a Fortune 500 client to automate the Deduction Management System, achieving a 70% reduction in manual efforts through the implementation of machine learning.
 - Designed and implemented an AI-enabled B2B invoice management application with a focus on payment date prediction.
