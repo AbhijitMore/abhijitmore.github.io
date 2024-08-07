@@ -27,6 +27,16 @@ Graduation: June 2022
 
 # Projects
 
+**Advanced Document Quality Assessment Tool**, _May 2024_
+- Spearheaded digitization with pre-OCR assessment for precision, bolstering effectiveness and efficiency.
+- Leveraged CNN technology to predict document quality, ensuring unmatched OCR accuracy and minimal errors.
+- Optimized workflow by enabling digitization of documents, driving productivity and resource utilization.
+
+**Video Summary Generator**, _Mar 2024_
+- Orchestrated accurate conversion, ensuring seamless transitions from input to transcription output.
+- Implemented meticulous review procedures, enhancing precision and readability of transcriptions.
+- Summarized transcribed content for better understanding and retention, enhancing comprehension.
+
 **AI-Driven Fintech B2B Invoice Management Application**, _June 2021_
 - Created a payment date prediction model using Python for open invoices.
 - Utilized SQL for data storage.
