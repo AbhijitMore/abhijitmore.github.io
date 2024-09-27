@@ -1,7 +1,7 @@
 --- 
 title: Advanced Document Quality Assessment Tool
 date: 2024-04-02
-categories: [Projects, Deep Learning] 
+learnings: [Projects, Deep Learning] 
 tags: [OCR, Deep Learning, CNN]
 
 ---
