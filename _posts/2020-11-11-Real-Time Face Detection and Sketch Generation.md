@@ -10,7 +10,7 @@ tags: [Machine Learning, Face Recognition, Open CV, Image Processing, Python]
 <br>
 
 
-# Real-Time Face Detection and Sketch Generation
+# Introduction
 
 This is a simple Flask application that streams video from a webcam while performing facial recognition using OpenCV's Haar Cascade Classifier. The application captures video frames, detects faces, and displays them on a web page in real-time.
 

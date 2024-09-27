@@ -10,7 +10,7 @@ tags: [Deep Learning, Computer Vision, Object Detection]
 <br>
 
 
-# A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS
+# Introduction
 
 Welcome to a comprehensive summary of the YOLO (You Only Look Once) models, detailing their evolution from **YOLOv1** to **YOLO-NAS**. YOLO is one of the most popular object detection frameworks in real-time applications such as autonomous vehicles, video surveillance, and robotics. This README provides a snapshot of each YOLO model, highlighting the key innovations, developers, and performance improvements. Let's dive into the world of YOLO!
 

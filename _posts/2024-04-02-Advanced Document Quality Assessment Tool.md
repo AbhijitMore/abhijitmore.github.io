@@ -10,7 +10,7 @@ tags: [OCR, Deep Learning, CNN]
 <br>
 
 
-# Advanced Document Quality Assessment Tool
+# Introduction
 
 This is a simple Flask application that assess the quality of documents before passing it to OCR.
 

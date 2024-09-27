@@ -10,7 +10,7 @@ tags: [Librosa, Deep Learning, NLP]
 <br>
 
 
-# Video Summary Generator
+# Introduction
 
 This is a simple Video Summary Generator that generate summary for given video.
 
