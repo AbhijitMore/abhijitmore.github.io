@@ -1,7 +1,7 @@
 --- 
 title: Real-Time Face Detection and Sketch Generation
 date: 2020-11-11
-learnings: [Projects, Image Processing] 
+categories: [Projects, Image Processing] 
 tags: [Machine Learning, Face Recognition, Open CV, Image Processing, Python]
 
 ---
