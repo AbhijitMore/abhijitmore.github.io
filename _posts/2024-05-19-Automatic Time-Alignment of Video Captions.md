@@ -1,7 +1,7 @@
 --- 
 title: Automatic Time-Alignment of Video Captions
 date: 2024-05-19
-categories: [Projects, Deep Learning] 
+learnings: [Projects, Deep Learning] 
 tags: [Deep Learning, NLP, Audio, Speech-to-Text]
 ---
 
