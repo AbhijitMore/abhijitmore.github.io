@@ -1,6 +1,6 @@
 --- 
 title: "A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS"
-date: 2021-10-17
+date: 2024-04-23
 categories: [Papers, Computer Vision] 
 tags: [Deep Learning, Computer Vision, Object Detection]
 
