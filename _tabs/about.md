@@ -14,6 +14,6 @@ Before Sony, I spent time at **IIT Madras Pravartak**, where I deepened my exper
 
 ### Passion for Innovation
 
-I am driven by the potential of **AI to transform industries**—from healthcare to finance and beyond. Whether it's optimizing AI for edge devices or creating intelligent systems, I always aim to make technology smarter, faster, and more efficient. 🚀✨
+I am inspired by AI’s transformative potential across industries—from healthcare to finance and beyond. With a strong focus on optimizing AI for real-world applications, I strive to create intelligent, efficient, and impactful solutions that drive progress. 
 
-Feel free to connect with me to explore how AI can solve real-world challenges together! 🌍🤝
+Always open to connecting and exploring how AI can address real-world challenges together. 🌍🚀
