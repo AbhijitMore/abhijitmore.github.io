@@ -4,10 +4,18 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-Ahoy data voyagers!
+# About Me
 
-In the dynamic landscape of decision-making, I am driven by the unwavering belief that data is the key to unlocking profound insights. My inspiration flourishes in the vast realms of data, where the fusion of information and computational prowess creates a powerful tool for informed decision-making. I am captivated by the synergy of extensive data and advanced computing, propelling the creation of intelligent systems that not only complement but also exceed human cognition, minimizing errors along the way.
+Hello! I'm **Abhijit More**, a passionate **Software Engineer (AI/ML)** focused on creating innovative AI solutions that solve real-world problems. I specialize in leveraging deep learning, machine learning, and AI technologies to develop impactful products. 🤖💡
 
-My fervor for data science and machine learning has been the guiding force behind my involvement in diverse projects within academia. This journey culminated in a rewarding internship as a Machine Learning Intern at HighRadius, where I immersed myself in the practical application of cutting-edge techniques. Subsequently, as an Associate Software Engineer - I at HighRadius, I took on the exciting challenge of implementing state-of-the-art algorithms for product-driven research. This role not only enriched my technological acumen but also fueled my passion for innovation.
+### What I Do
 
-In the ever-evolving landscape of technology, I am on a relentless pursuit of pushing boundaries and contributing to the forefront of advancements. My portfolio is a testament to my dedication, showcasing a fusion of academic curiosity and real-world application in the realms of data science and machine learning. Join me in exploring the limitless possibilities where data and innovation converge.
+I am currently a **Software Engineer (AI/ML)** at **Sony India Software Centre**, where I work on deploying AI models on low-power, low-memory edge devices for applications like image classification and object detection. My role involves optimizing deep learning models to meet stringent hardware requirements, ensuring high performance even in resource-constrained environments. ⚙️📱
+
+Before Sony, I worked at **HighRadius** as an **Associate Software Engineer**, where I developed AI-powered solutions for financial operations, including a predictive model for invoice payments and a full-stack invoice management application. Additionally, during my time at **IIT Madras Pravartak**, I further deepened my AI expertise, especially in deep learning and transformers, while working on several impactful projects, including an AI-based video captioning system for enhanced accessibility. 💼💻
+
+### Passion for Innovation
+
+I am driven by the potential of **AI to transform industries**—from healthcare to finance and beyond. Whether it's optimizing AI for edge devices or creating intelligent systems, I always aim to make technology smarter, faster, and more efficient. 🚀✨
+
+Feel free to connect with me to explore how AI can solve real-world challenges together! 🌍🤝
