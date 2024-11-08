@@ -26,12 +26,12 @@ order: 1
 
 # Projects
 
-**MediCompanion RAG Application**, _Sep 2024 – Oct 2024_
+**[MediCompanion RAG Application](https://github.com/AbhijitMore/MediCompanion)**, _Sep 2024 – Oct 2024_
 - Developed an interactive healthcare chatbot using LangChain and LLaMA 3.2 for health and fitness inquiries.
 - Engineered document retrieval and embedding workflows to ensure accurate and timely information delivery.
 - Enhanced user engagement with advanced conversational AI, empowering informed health decisions.
 
-**YoloV1 Object Detection Implementation**, _Mar 2024 – Apr 2024_
+**[YoloV1 Object Detection Implementation](https://github.com/AbhijitMore/yolov1)**, _Mar 2024 – Apr 2024_
 - Implemented a YoloV1 object detection model for real-time applications using PyTorch with custom utilities.
 - Developed efficient dataset handling and training workflows, optimizing model training and evaluation.
 - Utilized MLflow for experiment tracking, logging metrics, and visualizing model performance efficiently.
