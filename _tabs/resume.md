@@ -3,65 +3,62 @@ icon: fas fa-file-alt
 order: 1
 ---
 
-# Education
-
-**B.Tech in Electronics and Communications Engineering**, _Lovely Professional University_, Punjab, India   
-Graduation: June 2022
-
-- **CGPA:** 8.44
-- **Relevant Coursework:** Introduction to Artificial Intelligence, Digital Signal Processing, Database Management System, Workshop on Image Processing, Computer Programming, Data Structures and Algorithms
-
 # Work Experience
 
-**Software Engineer - AI/ML**, _Sony India Software Center, Bengaluru, Karnataka, Aug 2024 – Present_
-- Developed proof-of-concepts (POCs) for computer vision tasks.
+**Software Engineer – AI/ML**, _Sony India Software Centre, Bengaluru, Karnataka, Aug 2024 – Present_
+- Developed and executed proof of concepts (POCs) for various computer vision tasks, ensuring user data privacy.
+- Contributed to the development of deep learning model deployment techniques on edge devices, reducing processing time strict memory and power constraints.
 
-**Trainee - AI/ML**, _IIT Madras Pravartak, Chennai, TamilNadu, Feb 2024 – Aug 2024_
+**Trainee – AI/ML**, _IIT Madras Pravartak, Chennai, Tamil Nadu, Feb 2024 – Aug 2024_
 - Evolved expertise from statistics and machine learning to mastering deep learning, particularly transformers.
 - Crafted 4 innovative projects that seamlessly blend theory with practical applications, yielding tangible impacts.
+- Designed a capstone project that integrates video captions using deep learning, thereby enhancing accessibility.
 
-**Associate Software Engineer - I**, _HighRadius, Hyderabad, Jul 2022 – May 2023_
-- Collaborated with a Fortune 500 client to automate the Deduction Management System, achieving a 70% reduction in manual efforts through the implementation of machine learning.
-- Designed and implemented an AI-enabled B2B invoice management application with a focus on payment date prediction.
+**Associate Software Engineer – I**, _HighRadius, Hyderabad, Telangana, Jul 2022 – May 2023_
+- Spearheaded the initial design and development of the new O2C product, tailored for the Mid-Market space.
+- Revamped Java API, reducing response time by 40% and elevating user satisfaction by enhancing performance.
+- Collaborated with collections team as a full stack developer, specializing in Java backend development.
 
-**Product Intern (Data Science)**,_HighRadius, Bhubaneshwar, India, Aug 2021 – Jun 2022_
-- Partnered with a Fortune 500 client to automate the Deduction Management System, resulting in a 70% reduction in manual efforts through machine learning implementation.
-- Developed an AI-enabled B2B invoice management application with a specific emphasis on payment date prediction.
+**Product Intern – Data Science**, _HighRadius, Bhubaneswar, Odisha, Aug 2021 – Jun 2022_
+- Revolutionized client’s deductions management system, reducing manual efforts by 70% with ML algorithms.
+- Engineered an AI-powered B2B invoice management app, accurately predicting payment dates for efficiency.
+- Led the integration of advanced technologies, driving operational excellence and enhancing client satisfaction.
 
 # Projects
 
-**Advanced Document Quality Assessment Tool**, _May 2024_
-- Spearheaded digitization with pre-OCR assessment for precision, bolstering effectiveness and efficiency.
-- Leveraged CNN technology to predict document quality, ensuring unmatched OCR accuracy and minimal errors.
-- Optimized workflow by enabling digitization of documents, driving productivity and resource utilization.
+**MediCompanion RAG Application**, _Sep 2024 – Oct 2024_
+- Developed an interactive healthcare chatbot using LangChain and LLaMA 3.2 for health and fitness inquiries.
+- Engineered document retrieval and embedding workflows to ensure accurate and timely information delivery.
+- Enhanced user engagement with advanced conversational AI, empowering informed health decisions.
 
-**Video Summary Generator**, _Mar 2024_
-- Orchestrated accurate conversion, ensuring seamless transitions from input to transcription output.
-- Implemented meticulous review procedures, enhancing precision and readability of transcriptions.
-- Summarized transcribed content for better understanding and retention, enhancing comprehension.
+**YoloV1 Object Detection Implementation**, _Mar 2024 – Apr 2024_
+- Implemented a YoloV1 object detection model for real-time applications using PyTorch with custom utilities.
+- Developed efficient dataset handling and training workflows, optimizing model training and evaluation.
+- Utilized MLflow for experiment tracking, logging metrics, and visualizing model performance efficiently.
 
 **AI-Driven Fintech B2B Invoice Management Application**, _Jun 2021_
 - Created a payment date prediction model using Python for open invoices.
 - Utilized SQL for data storage.
 - Constructed the user interface with ExtJS and Java, successfully deploying the model.
 
-**Real-Time Face Detection and Sketch Generation**, _Nov 2020_
-- Implemented real-time face detection using OpenCV and Flask in Python.
-- Generated grayscale images and blended them to create a sketch, incorporating blurred negative images using dodge.
+# Education
 
-**A/B Test Results Analysis**, _Oct 2020_
-- Analyzed results of an A/B test conducted by an e-commerce website.
-- Concluded that retaining the old page was advisable, as there was insufficient evidence of increased visitor engagement with the new page.
+**B.Tech in Electronics and Communications Engineering (Hons.)**, _Lovely Professional University_, Punjab, India   
+Graduation: June 2022
+
+- **CGPA:** 8.44
+- **Relevant Coursework:** Introduction to Artificial Intelligence, Digital Signal Processing, Database Management System, Workshop on Image Processing, Computer Programming, Data Structures and Algorithms
 
 # Certifications
 
 - **Data Analyst Nanodegree (Udacity)**
 - **IBM Data Science Specialization (Coursera)** 
 - **Deep Learning Specialization by deeplearning.ai (Coursera)**
+- **Docker Foundations Professional (Docker, Inc)** and 20+ more
 
-# Technical Skills
+# Skills
 
-**Programming Languages:** Python, C, Java, MATLAB, SQL, HTML, CSS, JavaScript  
-**Libraries & Frameworks:** NLTK, Sentence Transformers, BERT, Scikit-learn, Numpy, Pandas, FastAPI, Flask, Django, Spark, Tensorflow, Keras  
-**Cloud & Software:** AWS, Databricks, Oracle Database, GitHub, Microsoft Office, Tableau, Docker  
-**Concepts:** Statistics, Data Analysis, Traditional ML Algorithms, Deep Learning, Computer Vision, NLP, Transformers, LLMs
+**Programming Languages & Tools:** Python, C/C++, JavaScript, SQL, Kubernetes, Docker, AWS  
+**ML Frameworks & Libraries:** TensorFlow, PyTorch, ONNX, Scikit-Learn, NumPy, Pandas, PySpark  
+**Generative AI Tools:** Transformers, LangChain, LlamaIndex, Retrieval-Augmented Generation (RAG)  
+**Soft Skills:** Problem Solving, Continuous Learning, Leadership, Public Speaking, Time Management, Collaboration  
