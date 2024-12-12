@@ -96,7 +96,8 @@ Once started, the Medicompanion application provides real-time responses based o
 
 Throughout its operation, Medicompanion outputs relevant response:
 
-- **Console Output**: Records of real-time chat outputs, providing insights into user interactions.
+- **Console Output**: 
+![user interaction](https://github.com/AbhijitMore/MediCompanion/blob/main/resources/console_output.png)
 
 ---
 
