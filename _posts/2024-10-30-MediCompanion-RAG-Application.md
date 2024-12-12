@@ -23,19 +23,31 @@ Medicompanion utilizes RAG and LLaMA 3.2 to answer health-related questions by r
 
 A well-organized directory structure is key to managing the project efficiently. Below is the breakdown of Medicompanion’s directory:
 
-    MediCompanion
-    ├── README.md               # Project documentation
-    ├── main.py                 # Main application entry point
-    ├── chat_model.py           # Core chat model implementation
-    ├── config.py               # Configuration settings
-    ├── document_loader.py      # Document loading and preprocessing
-    ├── rag-datasets/           # Folder for datasets
-    │   ├── gym supplements     # Gym supplements documents
-    │   └── health supplements  # Health supplements documents
-    ├── resources/              # Resources for output examples
-    ├── retriever.py            # Document retrieval functions
-    ├── text_splitter.py        # Splits text for efficient processing
-    └── vector_store.py         # Embeddings storage for quick retrieval
+```
+.
+├── README.md               # Documentation for the project
+├── chat_model.py           # Implementation of the chat model
+├── config.py               # Configuration settings for the application
+├── document_loader.py      # Functions to load documents from the dataset
+├── logger_config.py        # Logger configurations for the application
+├── main.py                 # Entry point for the application
+├── tasks.py                # all the logic for different tasks
+├── rag-datasets            # Directory containing the datasets
+│   ├── gym supplements     # Documents related to gym supplements
+│   │   ├── 1. Analysis of Actual Fitness Supplement.pdf
+│   │   └── 2. High Prevalence of Supplement Intake.pdf
+│   └── health supplements  # Documents related to health supplements
+│       ├── 1. dietary supplements - for whom.pdf
+│       ├── 2. Nutraceuticals research.pdf
+│       └── 3.health_supplements_side_effects.pdf
+├── resources               # Additional resources (e.g., images, outputs)
+│   └── console_output.png  # Example output screenshot
+├── logs                    # Directory to store logs
+│   └── application.log     # log file
+├── retriever.py            # Functions to retrieve relevant documents
+├── text_splitter.py        # Functions to split text for processing
+└── vector_store.py         # Vector store implementation for embeddings
+```
 
 ### Key Files
 
