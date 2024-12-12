@@ -97,7 +97,7 @@ Once started, the Medicompanion application provides real-time responses based o
 Throughout its operation, Medicompanion outputs relevant response:
 
 - **Console Output**: 
-![user interaction](https://github.com/AbhijitMore/MediCompanion/blob/main/resources/console_output.png)
+![user interaction](assets/img/console_output.png)
 
 ---
 
