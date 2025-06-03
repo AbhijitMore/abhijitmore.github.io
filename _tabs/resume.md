@@ -6,23 +6,23 @@ order: 1
 # Work Experience
 
 **Software Engineer – AI/ML**, _Sony India Software Centre, Bengaluru, Karnataka, Aug 2024 – Present_
-- Developed and executed proof of concepts (POCs) for various computer vision tasks, ensuring user data privacy.
-- Contributed to the development of deep learning model deployment techniques on edge devices, reducing processing time strict memory and power constraints.
+- Built AI-based real-time image failure detection for drone inspections, reducing reshoots by detecting blur, exposure, and misalignment. Deployed on Jetson; compatible with Sony LR1 and RGB cameras.
+- Adapted DeepSeek and Phi-3 LLM architectures for distributed execution on Raspberry Pi and Jetson Nano,
+enabling inference on low-resource devices without any compromise in accuracy.
 
 **Trainee – AI/ML**, _IIT Madras Pravartak, Chennai, Tamil Nadu, Feb 2024 – Aug 2024_
-- Evolved expertise from statistics and machine learning to mastering deep learning, particularly transformers.
-- Crafted 4 innovative projects that seamlessly blend theory with practical applications, yielding tangible impacts.
-- Designed a capstone project that integrates video captions using deep learning, thereby enhancing accessibility.
+- Developed an AI model to predict cardiovascular diseases with 86% accuracy using digital stethoscope data.
+- Developed a lightweight image processing pipeline to improve OCR accuracy on low-quality images. Applied Otsu’s binarization and a custom blur algorithm to enhance text clarity and reduce noise
 
 **Associate Software Engineer – I**, _HighRadius, Hyderabad, Telangana, Jul 2022 – May 2023_
-- Spearheaded the initial design and development of the new O2C product, tailored for the Mid-Market space.
-- Revamped Java API, reducing response time by 40% and elevating user satisfaction by enhancing performance.
-- Collaborated with collections team as a full stack developer, specializing in Java backend development.
+- Developed an AI-based invoice management model that accurately predicted payment dates and enabled a 75%
+faster recovery of past-due payments by proactively identifying and prioritizing high-risk customers.
+- Revolutionized the client’s deductions management system by developing machine learning algorithms that
+identified valid deductions with 93% accuracy, resulting in a 73% reduction in manual efforts.
 
 **Product Intern – Data Science**, _HighRadius, Bhubaneswar, Odisha, Aug 2021 – Jun 2022_
-- Revolutionized client’s deductions management system, reducing manual efforts by 70% with ML algorithms.
-- Engineered an AI-powered B2B invoice management app, accurately predicting payment dates for efficiency.
-- Led the integration of advanced technologies, driving operational excellence and enhancing client satisfaction.
+- Revamped Java API, reducing response time by 40% and elevating user satisfaction by enhancing performance
+- Spearheaded the initial design and development of the order to cash product, tailored for the Mid-Market space.
 
 # Projects
 
