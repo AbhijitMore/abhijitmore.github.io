@@ -5,7 +5,7 @@ categories: [Computer Vision]
 tags: [CNN Architectures]
 ---
 
-# 4. GoogLeNet / InceptionNet
+# GoogLeNet / InceptionNet
 
 ## Table of Contents
 1. [Introduction](#1-introduction)  
