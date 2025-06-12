@@ -18,8 +18,7 @@ tags: [CNN Architectures]
 8. [Training Details](#8-training-details)  
 9. [Key Takeaways and Performance](#9-key-takeaways-and-performance)  
 10. [Limitations and Challenges](#10-limitations-and-challenges)  
-11. [Conclusion](#11-conclusion)  
-12. [Further Reading](#12-further-reading)  
+11. [Conclusion](#11-conclusion)
 
 ---
 
@@ -188,12 +187,5 @@ GoogLeNet laid the foundation for further architectures like **Inception-v3, v4,
 It was an early proof that **carefully designed networks** can outperform deeper or wider brute-force models.
 
 > 🎯 “Going deeper with convolutions” wasn’t just a paper title — it was a revolution in CNN design.
-
----
-
-## 12. Further Reading
-
-- 📄 [Original Paper (2014)](https://arxiv.org/abs/1409.4842) – Szegedy et al.
-- 🎓 [CS231n CNN Architectures](http://cs231n.stanford.edu/)
 
 ---
