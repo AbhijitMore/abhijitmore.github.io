@@ -1,7 +1,7 @@
 ---
 title: "Medicompanion RAG Application: Transforming Healthcare Information Delivery"
 date: 2024-10-30
-categories: [Projects, Deep Learning]
+categories: [Projects,  Gen AI]
 tags: [RAG, LangChain, LLaMA]
 
 ---

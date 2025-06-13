@@ -1,7 +1,7 @@
 --- 
 title: "Fine-Tuning GPT-2 for SMS Spam Classification"
 date: 2024-10-17
-categories: [Projects, Deep Learning, LLM] 
+categories: [Projects, Gen AI] 
 tags: [Deep Learning, LLM, FineTuning]
 
 ---
