@@ -1,5 +1,5 @@
 ---
-title: "ShuffleNet"
+title: "Evolution of CNN architures"
 date: 2020-02-05
 categories: [Computer Vision]
 tags: [CNN Architectures]
