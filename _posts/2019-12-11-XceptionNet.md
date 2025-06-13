@@ -19,7 +19,6 @@ tags: [CNN Architectures]
 9. [Limitations and Critiques](#9-limitations-and-critiques)
 10. [Real-world Applications and Use Cases](#10-real-world-applications-and-use-cases)
 11. [Conclusion](#11-conclusion)
-12. [Further Reading](#12-further-reading)
 
 ---
 
@@ -204,14 +203,5 @@ XceptionNet demonstrates that by completely factorizing standard convolutions in
 For practitioners, Xception offers a balanced approach: **modular design, high accuracy, and reasonable computational load**.
 
 It has influenced architectures like **EfficientNet, NASNet**, and the general trend toward **lightweight, high-performance CNNs**.
-
----
-
-## 12. Further Reading
-
-* 📄 [Xception Paper (2017)](https://arxiv.org/abs/1610.02357)
-* 📚 *Deep Learning* by Ian Goodfellow et al. (Chapter on CNNs)
-* 🧠 Keras Documentation: [Xception Model](https://keras.io/api/applications/xception/)
-* 🎓 Stanford CS231n: [CNN Architectures](http://cs231n.stanford.edu/)
 
 ---

@@ -19,7 +19,6 @@ tags: [CNN Architectures]
 9. [Impact and Use Cases](#9-impact-and-use-cases)
 10. [Limitations and Criticisms](#10-limitations-and-criticisms)
 11. [Conclusion](#11-conclusion)
-12. [Further Reading](#12-further-reading)
 
 ---
 
@@ -160,14 +159,5 @@ SqueezeNet trades raw accuracy for compactness, which may not suit high-stakes v
 SqueezeNet proved that **model efficiency doesn't have to come at the cost of performance**. Its innovative use of 1x1 filters and modular design made it a blueprint for subsequent lightweight architectures like MobileNet and ShuffleNet.
 
 In an era of large models, SqueezeNet reminds us that **clever architecture can outperform brute force**.
-
----
-
-## 12. Further Reading
-
-* 📄 [SqueezeNet Paper (2016)](https://arxiv.org/abs/1602.07360)
-* 📚 *Efficient Processing of Deep Neural Networks* by Vivienne Sze et al.
-* 🛠️ [TorchVision SqueezeNet Implementation](https://pytorch.org/hub/pytorch_vision_squeezenet/)
-* 🎓 Stanford [CS231n Lecture Notes on CNN Architectures](http://cs231n.stanford.edu/)
 
 ---

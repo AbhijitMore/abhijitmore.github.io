@@ -6,7 +6,7 @@ tags: [CNN Architectures]
 
 ---
 
-### Table of Contents
+## Table of Contents
 
 1. [Introduction](#1-introduction)
 2. [Why ShuffleNet Was Needed](#2-why-shufflenet-was-needed)
@@ -19,17 +19,16 @@ tags: [CNN Architectures]
 9. [Use Cases and Real-World Impact](#9-use-cases-and-real-world-impact)
 10. [Criticisms and Limitations](#10-criticisms-and-limitations)
 11. [Conclusion](#11-conclusion)
-12. [Further Reading](#12-further-reading)
 
 ---
 
-### 1. Introduction
+## 1. Introduction
 
 **ShuffleNet**, introduced by researchers at **Megvii (Face++) in 2017**, is a highly efficient convolutional neural network designed for **mobile and embedded devices** with limited computing power. It aims to strike a balance between computational cost (FLOPs), parameter size, and accuracy by using **pointwise group convolutions** and a novel operation called **channel shuffle**.
 
 ---
 
-### 2. Why ShuffleNet Was Needed
+## 2. Why ShuffleNet Was Needed
 
 In 2017, the deployment of CNNs on mobile devices was severely limited by:
 
@@ -41,18 +40,18 @@ While models like **MobileNet** addressed some of these issues with depthwise se
 
 ---
 
-### 3. Key Concepts Behind ShuffleNet
+## 3. Key Concepts Behind ShuffleNet
 
-#### ✅ Group Convolution
+### ✅ Group Convolution
 
 * Introduced in **AlexNet** and popularized in **ResNeXt**, it splits input channels into groups to reduce computation.
 * Downside: It limits inter-group communication.
 
-#### ✅ Channel Shuffle
+### ✅ Channel Shuffle
 
 * A simple but effective operation that **permutes channels** to allow inter-group information flow after grouped convolutions.
 
-#### ✅ 1x1 Group Convolutions
+### ✅ 1x1 Group Convolutions
 
 * Reduces the overhead of fully-connected 1x1 convolutions, enabling **lightweight transformations**.
 
@@ -60,7 +59,7 @@ Together, these innovations ensure that ShuffleNet can deliver high accuracy **u
 
 ---
 
-### 4. ShuffleNet Architecture Overview
+## 4. ShuffleNet Architecture Overview
 
 Each **ShuffleNet unit** has a residual-like structure consisting of:
 
@@ -73,7 +72,7 @@ The network structure stacks these units with strides for downsampling, grouped 
 
 ---
 
-### 5. Detailed Module Design
+## 5. Detailed Module Design
 
 | Component           | Description                                         |
 | ------------------- | --------------------------------------------------- |
@@ -87,11 +86,11 @@ The output is either **added** to the shortcut path (stride 1) or **concatenated
 
 ---
 
-### 6. Channel Shuffle Mechanism
+## 6. Channel Shuffle Mechanism
 
 Group convolutions reduce computation but **segregate information** within groups. To remedy this, ShuffleNet introduces **channel shuffle**:
 
-#### How it works:
+### How it works:
 
 1. Reshape tensor: \[N, g, c/g, H, W]
 2. Transpose group and channel: \[N, c/g, g, H, W]
@@ -101,7 +100,7 @@ This ensures **cross-group information exchange**, enabling better feature repre
 
 ---
 
-### 7. Training Details and Parameters
+## 7. Training Details and Parameters
 
 * **Input Size**: 224×224
 * **Groups**: 1, 2, 3, or 8 (common: 3 or 8)
@@ -114,7 +113,7 @@ This ensures **cross-group information exchange**, enabling better feature repre
 
 ---
 
-### 8. Performance and Comparisons
+## 8. Performance and Comparisons
 
 | Model           | FLOPs (M) | Top-1 Acc (ImageNet) | Params (M) |
 | --------------- | --------- | -------------------- | ---------- |
@@ -126,7 +125,7 @@ ShuffleNet achieves **better or comparable accuracy** with **significantly fewer
 
 ---
 
-### 9. Use Cases and Real-World Impact
+## 9. Use Cases and Real-World Impact
 
 * Deployed in **mobile apps for vision tasks**: object detection, face recognition
 * Used in **AR/VR systems** and **wearables**
@@ -135,7 +134,7 @@ ShuffleNet achieves **better or comparable accuracy** with **significantly fewer
 
 ---
 
-### 10. Criticisms and Limitations
+## 10. Criticisms and Limitations
 
 | Limitation                       | Description                                                       |
 | -------------------------------- | ----------------------------------------------------------------- |
@@ -146,18 +145,10 @@ ShuffleNet achieves **better or comparable accuracy** with **significantly fewer
 
 ---
 
-### 11. Conclusion
+## 11. Conclusion
 
 **ShuffleNet** is a remarkable stride in mobile-first CNN design. It combines **the computational savings of group convolution** with the **representational flexibility of channel shuffle**, enabling strong performance under severe hardware constraints. It inspired later works like **ShuffleNet v2**, **GhostNet**, and **EfficientNet Lite**.
 
 For edge AI deployments or any scenario where **efficiency and accuracy must be tightly balanced**, ShuffleNet remains a go-to architecture.
-
----
-
-### 12. Further Reading
-
-* 📄 [Original Paper: ShuffleNet: An Extremely Efficient CNN Architecture for Mobile Devices (2017)](https://arxiv.org/abs/1707.01083)
-* 🎓 [CS231n Notes on Efficient CNNs](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture13.pdf)
-* 📚 *Efficient Deep Learning* by Tan & Le (EfficientNet authors)
 
 ---
