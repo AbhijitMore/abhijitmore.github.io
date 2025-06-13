@@ -134,7 +134,7 @@ The history of CNNs is a story of going **deeper**, **wider**, and **leaner**—
 
 ---
 
-# 📊 Summary Table
+## 📊 Summary Table
 
 | Era           | Focus                     | Representative Models                       |
 | ------------- | ------------------------- | ------------------------------------------- |
@@ -145,7 +145,7 @@ The history of CNNs is a story of going **deeper**, **wider**, and **leaner**—
 
 ---
 
-# 🔍 Key Takeaways from CNN Evolution
+## 🔍 Key Takeaways from CNN Evolution
 
 ### 1. 📏 Going Deeper and Smarter
 
@@ -169,7 +169,7 @@ Smaller models with good enough accuracy win in real-world applications.
 
 ---
 
-# 🧠 Final Thoughts
+## 🧠 Final Thoughts
 
 Each architecture emerged to address specific bottlenecks—training depth, computational limits, feature reuse, or deployment constraints. The journey from LeNet to DenseNet reflects not just a growth in size and depth, but in intelligence—about what to compute, how to connect, and where to optimize.
 
