@@ -1,6 +1,6 @@
 --- 
 title: "Edge AI Hardware Platforms: NVIDIA Jetson vs Raspberry Pi"
-date: 2024-05-23
+date: 2025-05-23
 categories: [Projects, AI Inference & Acceleration Stack] 
 tags: [Deep Learning, AIOps]
 
