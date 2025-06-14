@@ -1,7 +1,7 @@
 --- 
 title: "Inference Serving Frameworks"
 date: 2025-06-13
-categories: [Projects, AI Inference & Acceleration Stack] 
+categories: [Papers, AI Inference & Acceleration Stack] 
 tags: [Deep Learning, AIOps]
 
 ---

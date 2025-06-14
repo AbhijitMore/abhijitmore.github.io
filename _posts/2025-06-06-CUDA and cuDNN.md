@@ -1,7 +1,7 @@
 --- 
 title: "CUDA and cuDNN: Powering the Engine of Deep Learning"
 date: 2025-06-06
-categories: [Projects, AI Inference & Acceleration Stack] 
+categories: [Papers, AI Inference & Acceleration Stack] 
 tags: [Deep Learning, AIOps]
 
 ---
