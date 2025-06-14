@@ -1,6 +1,6 @@
 --- 
 title: "Inference Optimization Engines: Speeding Up AI Models for Real-World Deployment"
-date: 2024-05-30
+date: 2025-05-30
 categories: [Projects, AI Inference & Acceleration Stack] 
 tags: [Deep Learning, AIOps]
 
