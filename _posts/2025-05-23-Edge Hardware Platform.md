@@ -6,8 +6,6 @@ tags: [Deep Learning, AIOps]
 
 ---
 
-# Edge AI Hardware Platforms: NVIDIA Jetson vs Raspberry Pi
-
 As AI models increasingly move from the cloud to the edge, choosing the right hardware platform becomes critical. Whether you're deploying object detection on a drone, gesture recognition in robotics, or speech recognition in smart devices, your choice of hardware can make or break the experience. Among the most popular platforms enabling this shift to **Edge AI** are **NVIDIA Jetson** and the **Raspberry Pi**. Let's unpack their architectures, capabilities, and core technical distinctions — no setup guides, just the raw, intuitive engineering details.
 
 ---
