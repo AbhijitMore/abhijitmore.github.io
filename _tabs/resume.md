@@ -5,11 +5,11 @@ order: 1
 
 # Work Experience
 
-**Software Engineer – AI/ML**, _Sony India Software Centre, Bengaluru, Karnataka, Aug 2024 – Present_
-• Deployed an AI-based image failure detection system (82%) accuracy on Jetson devices for Sony LR1/RGB cameras, cutting drone reshoots by over 40%; adopted by 3+ U.S. clients in energy infrastructure.  
-• Partitioned DeepSeek and Phi-3 LLMs into transformer blocks for distributed execution on Raspberry Pi and Jetson Nano, orchestrating synchronized parallel inference preserving 100% accuracy on low-resource edge hardware.  
+**Software Engineer – AI/ML**, _Sony India Software Centre, Bengaluru, Karnataka, Aug 2024 – Present_  
+- Deployed an AI-based image failure detection system (82%) accuracy on Jetson devices for Sony LR1/RGB cameras, cutting drone reshoots by over 40%; adopted by 3+ U.S. clients in energy infrastructure.  
+- Partitioned DeepSeek and Phi-3 LLMs into transformer blocks for distributed execution on Raspberry Pi and Jetson Nano, orchestrating synchronized parallel inference preserving 100% accuracy on low-resource edge hardware.  
 
-**Trainee – AI/ML**, _IIT Madras Pravartak, Chennai, Tamil Nadu, Feb 2024 – Aug 2024_
+**Trainee – AI/ML**, _IIT Madras Pravartak, Chennai, Tamil Nadu, Feb 2024 – Aug 2024_  
 - Collaborated with medical professionals to build a CNN model using digital stethoscope signals transformed into Mel-spectrograms, predicting cardiovascular diseases with 86% accuracy for early remote diagnosis.
 - Enhanced OCR precision by 20% on low-quality images by integrating lightweight ML-driven preprocessing using Otsu’s binarization and a custom blur algorithm.
 
