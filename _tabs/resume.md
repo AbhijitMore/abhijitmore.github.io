@@ -48,10 +48,10 @@ order: 1
 - **Docker Foundations Professional (Docker, Inc)** and 20+ more
 
 # Skills
-**Programming Languages & Tools:** Python, C/C++, SQL, Git, Docker, Kubernetes, AWS (SageMaker, S3)
-**Data Engineering & Processing:** Pandas, NumPy, PySpark, MongoDB, Apache Kafka, Airflow
-**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, ONNX, MLflow, FastAPI, Hugging Face Transformers
-**Large Language Models:** OpenAI API, Anthropic Claude, LangChain, LlamaIndex, RAG, llama.cpp, FAISS, Chroma
+* **Programming Languages & Tools:** Python, C/C++, SQL, Git, Docker, Kubernetes, AWS (SageMaker, S3)  
+* **Data Engineering & Processing:** Pandas, NumPy, PySpark, MongoDB, Apache Kafka, Airflow  
+* **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, ONNX, MLflow, FastAPI, Hugging Face Transformers  
+* **Large Language Models:** OpenAI API, Anthropic Claude, LangChain, LlamaIndex, RAG, llama.cpp, FAISS, Chroma  
 
 # Education
 
