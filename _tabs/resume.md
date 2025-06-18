@@ -5,38 +5,40 @@ order: 1
 
 # Work Experience
 
-**Software Engineer – AI/ML**, _Sony India Software Centre, Bengaluru, Karnataka, Aug 2024 – Present_  
-- Deployed an AI-based image failure detection system (82%) accuracy on Jetson devices for Sony LR1/RGB cameras, cutting drone reshoots by over 40%; adopted by 3+ U.S. clients in energy infrastructure.  
-- Partitioned DeepSeek and Phi-3 LLMs into transformer blocks for distributed execution on Raspberry Pi and Jetson Nano, orchestrating synchronized parallel inference preserving 100% accuracy on low-resource edge hardware.  
+**Software Engineer – AI/ML**, *Sony India Software Centre, Bengaluru, Karnataka, Aug 2024 – Present*
 
-**Trainee – AI/ML**, _IIT Madras Pravartak, Chennai, Tamil Nadu, Feb 2024 – Aug 2024_  
-- Collaborated with medical professionals to build a CNN model using digital stethoscope signals transformed into Mel-spectrograms, predicting cardiovascular diseases with 86% accuracy for early remote diagnosis.
-- Enhanced OCR precision by 20% on low-quality images by integrating lightweight ML-driven preprocessing using Otsu’s binarization and a custom blur algorithm.
+* Partitioned DeepSeek and Phi-3 models by splitting transformer layers across memory-constrained Raspberry Pi and Jetson Nano for real-time inference; preserved **100%** accuracy without compromising architectural integrity.
+* Deployed an AI-based image failure detection on Jetson Orin NX to detect defocus, off-centre framing, and exposure issues; achieved **82%** accuracy, cut drone reshoots by **40%**, and was adopted by **3+** U.S. energy clients.
 
-**Associate Software Engineer – I**, _HighRadius, Hyderabad, Telangana, Jul 2022 – May 2023_
-- Spearheaded AI-driven invoice prediction system forecasting payment dates using customer behavior and transaction history, accelerating recovery of overdue invoices by 25% through prioritizing high-risk accounts.  
-- Architected ML algorithms for deductions management by training models on claims data to classify valid deductions with 93% accuracy, reducing manual review by 73% and expediting dispute resolution.  
+**AI/ML Trainee**, *Sony Finishing School @ IITM Pravartak, Chennai, Tamil Nadu, Feb 2024 – Aug 2024*
 
-**Product Intern – Data Science**, _HighRadius, Bhubaneswar, Odisha, Aug 2021 – Jun 2022_
-- Refined Java REST API using asynchronous processing with CompletableFuture and targeted indexing, cutting response time by 40% and accelerating ML data retrieval.  
-- Crafted scalable feature engineering pipeline leveraging Python (Pandas) and SQL to extract, transform, and aggregate critical variables from large transactional data, boosting ML model accuracy by 8%.  
+* Led cross-functional development of a CNN-based murmur detection system using Mel-spectrograms from digital stethoscope data, achieving **86%** accuracy in early identification of pathological heart sounds for remote diagnosis.
+* Built a quality-gating pipeline for scanned legal documents using Otsu’s thresholding and custom blur detection; flagged low-quality pages for enhancement, reducing OCR extraction errors by **20%** across 15K legal documents.
+* Secured a full-time offer from Sony India post-program, as a top **1%** candidate based on performance and interview.
+
+**Associate Software Engineer – I**, *HighRadius, Hyderabad, Telangana, Jul 2022 – May 2023*
+
+* Developed a LightGBM-based payment date prediction model using customer behavioral trends and historical transactions; enabled proactive prioritization of delinquent accounts, improving overdue invoice recovery by **25%**.
+* Engineered a CatBoost-based classification system to evaluate deduction validity across 600k+ financial transactions; isolated high-confidence invalid claims with **93%** accuracy, eliminating **73%** of manual follow-ups.
+
+**Product Intern – Data Science**, *HighRadius, Bhubaneswar, Odisha, Aug 2021 – Jun 2022*
+
+* Eliminated SQL bottlenecks in a high-throughput, asynchronous Java REST API powering ML-based payment prediction pipelines; reduced latency by **40%** using `CompletableFuture`, batched queries, and MySQL indexes.
+* Crafted a scalable feature engineering pipeline leveraging Python (Pandas) and SQL to efficiently extract, transform, and aggregate critical variables from large transactional data, boosting ML model accuracy by **8%**.
 
 # Projects
 
-**[MediCompanion RAG Application](https://github.com/AbhijitMore/MediCompanion)**, _Sep 2024 – Oct 2024_
-- Designed a domain-specific RAG chatbot using LangChain, Ollama, and LLaMA 3.2 (7B) to generate context-aware responses, achieving 87% answer accuracy on a benchmark of 100 curated health and fitness queries.  
-- Optimized chunking and FAISS index to reach 92% top-3 document retrieval accuracy on 50+ medical PDFs.  
-- Configured cloud-independent LLaMA 3.2 inference achieving sub-2s latency on constrained healthcare systems.  
+**[MediCompanion RAG Application](https://github.com/AbhijitMore/MediCompanion)**, *Sep 2024 – Oct 2024*
 
-**[YoloV1 Object Detection Implementation](https://github.com/AbhijitMore/yolov1)**, _Mar 2024 – Apr 2024_
-- Constructed YoloV1 object detection model optimized for real-time applications using PyTorch.  
-- Streamlined dataset handling and training workflows, enhancing model training and evaluation efficiency.  
-- Integrated MLflow for experiment tracking, metrics logging, and model performance visualization.  
+* Designed a domain-specific RAG chatbot using LangChain, Ollama, and LLaMA 3.2 (7B) to generate semantically grounded responses, achieving **87%** answer accuracy on a benchmark of 100 curated health and fitness queries.
+* Optimized chunking and FAISS index to reach **92%** top-3 document retrieval accuracy on 50+ medical PDFs.
+* Configured cloud-independent LLaMA 3.2 inference, achieving sub-**2s** latency on constrained healthcare systems.
 
-**AI-Driven Fintech B2B Invoice Management Application**, _Jun 2021_
-- Created a payment date prediction model using Python for open invoices.
-- Utilized SQL for data storage.
-- Constructed the user interface with ExtJS and Java, successfully deploying the model.
+**[YoloV1 Object Detection Implementation](https://github.com/AbhijitMore/yolov1)**, *Mar 2024 – Apr 2024*
+
+* Constructed a YoloV1 object detection model optimized for real-time applications using PyTorch.
+* Streamlined dataset handling and training workflows, enhancing model training and evaluation efficiency.
+* Integrated MLflow for experiment tracking, metrics logging, and model performance visualization.
 
 # Certifications
 
