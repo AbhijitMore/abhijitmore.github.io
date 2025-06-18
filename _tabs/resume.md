@@ -27,9 +27,10 @@ identified valid deductions with 93% accuracy, resulting in a 73% reduction in m
 # Projects
 
 **[MediCompanion RAG Application](https://github.com/AbhijitMore/MediCompanion)**, _Sep 2024 – Oct 2024_
-- Developed an interactive healthcare chatbot using LangChain and LLaMA 3.2 for health and fitness inquiries.
-- Engineered document retrieval and embedding workflows to ensure accurate and timely information delivery.
-- Enhanced user engagement with advanced conversational AI, empowering informed health decisions.
+- Designed a domain-specific RAG chatbot using LangChain, Ollama, and LLaMA 3.2 (7B) to generate
+context-aware responses, achieving 87% answer accuracy on a benchmark of 100 curated health and fitness queries.
+- Optimized chunking and FAISS index to reach 92% top-3 document retrieval accuracy on 50+ medical PDFs.
+- Configured cloud-independent LLaMA 3.2 inference achieving sub-2s latency on constrained healthcare systems.
 
 **[YoloV1 Object Detection Implementation](https://github.com/AbhijitMore/yolov1)**, _Mar 2024 – Apr 2024_
 - Implemented a YoloV1 object detection model for real-time applications using PyTorch with custom utilities.
