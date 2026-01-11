@@ -8,9 +8,11 @@ Hello! I'm **Abhijit More**, a passionate **Software Engineer (AI/ML)** focused 
 
 ### What I Do
 
-I am currently a **Software Engineer (AI/ML)** at **Sony India Software Centre**, where I work on deploying AI models on low-power, low-memory edge devices for applications like image classification and object detection. My role involves optimizing deep learning models to meet stringent hardware requirements, ensuring high performance even in resource-constrained environments. ⚙️📱
+I am a Machine Learning Engineer at F-Secure, where I build production-grade AI systems that protect users from scams and digital threats at scale. My work focuses on designing, optimizing, and deploying reliable, high-performance ML models that operate under real-world constraints such as latency, robustness, and large-scale user impact.
 
-Before Sony, I spent time at **IIT Madras Pravartak**, where I deepened my expertise in AI, particularly large language models and transformers, while working on several impactful projects. Additionally, I worked at **HighRadius** as an **Associate Software Engineer**, developing AI-powered solutions for financial operations, including a predictive model for invoice payment dates. 💼💻
+Previously, I worked as a Software Engineer (AI/ML) at Sony India Software Centre, developing and deploying computer vision models on low-power, low-memory edge devices. I specialized in model optimization, compression, and inference efficiency, enabling image classification and object detection systems to run effectively in resource-constrained environments.
+
+Before Sony, I was associated with IIT Madras Pravartak, where I strengthened my foundation in large language models and transformer architectures, contributing to multiple applied AI projects. Earlier in my career, I worked at HighRadius as an Associate Software Engineer, building AI-driven financial intelligence systems, including a predictive model for invoice payment timelines used in enterprise workflows.
 
 ### Passion for Innovation
 
